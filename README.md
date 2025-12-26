@@ -41,4 +41,4 @@ url ->  http://localhost:8080
 - url -> http://localhost:5173
 
  
-## Loom vide0 url -> https://drive.google.com/file/d/1hFrsYKeI5UMZqNP6kTJMC2hfhoVxAqnT/view?usp=drive_link
+## Loom video url -> https://drive.google.com/file/d/1hFrsYKeI5UMZqNP6kTJMC2hfhoVxAqnT/view?usp=drive_link
